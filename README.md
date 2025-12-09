@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Bailey Bingham (She/her)
+I am a PhD student in the Department of Forest and Conservation Sciences at the University of British Columbia, Canada. I am a member of Team Shrub, under Dr. Isla Myers-Smith's supervision. 
+
+I’m a global change ecologist and science educator, originally from Ontario. For my PhD with Team Shrub, I am investigating how heat waves, extended growing seasons, and permafrost thaw interact to influence tundra plant growth and phenology on Qikiqtaruk – Herschel Island in the Yukon Arctic using growth chamber experiments, time-lapse photography and long-term phenology data. I completed my MSc in Biology at the University of Guelph in 2021, where I focused on science education and built a love for sharing research beyond academia. This passion for science outreach brought me to Nunavut, as a lecturer and hiking guide, where I fell in love with the landscapes and communities of Arctic Canada. I enjoy working across disciplines and with different communities to better understand how ecosystems are changing. 
+
+⚡ Fun fact: When I’m not in the office, you can usually find me on the trail—I’ve hiked over 5,000 km in the past 3 years, including a thru-hike of the Pacific Crest Trail in 2023!
+
+### PhD Research
+The Arctic is warming up to four times faster than the global average, and summer heat waves are becoming more common. These short periods of unusually hot weather can strongly influence tundra plants. Although gradual warming is known to shift Arctic vegetation composition, phenology and biodiversity, we know far less about how sudden heat waves impact tundra ecosystems and how these impacts might vary across the highly heterogenous environmental conditions of the Arctic. Understanding both the direct effects of heat waves and the degree to which microclimate buffers or amplifies them is essential for assessing the resilience of tundra plant communities.
+
+My project asks: How do summer Arctic heat waves affect tundra vegetation? Specifically, I will investigate how heat waves impact tundra vegetation phenology, growth, and community composition across scales and how how these effects vary across microclimates and spatial patterns in the landscape. To answer these questions, I will integrate fieldwork, controlled experiments, and long-term monitoring.
 
 <!--
 **baileybingham/baileybingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
