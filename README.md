@@ -5,7 +5,7 @@ I’m a global change ecologist and science educator, originally from Ontario. F
 
 ⚡ Fun fact: When I’m not in the office, you can usually find me on the trail—I’ve hiked over 5,000 km in the past 3 years, including a thru-hike of the Pacific Crest Trail in 2023!
 
-### PhD Research
+### My PhD Research
 The Arctic is warming up to four times faster than the global average, and summer heat waves are becoming more common. These short periods of unusually hot weather can strongly influence tundra plants. Although gradual warming is known to shift Arctic vegetation composition, phenology and biodiversity, we know far less about how sudden heat waves impact tundra ecosystems and how these impacts might vary across the highly heterogenous environmental conditions of the Arctic. Understanding both the direct effects of heat waves and the degree to which microclimate buffers or amplifies them is essential for assessing the resilience of tundra plant communities.
 
 My project asks: How do summer Arctic heat waves affect tundra vegetation? Specifically, I will investigate how heat waves impact tundra vegetation phenology, growth, and community composition across scales and how how these effects vary across microclimates and spatial patterns in the landscape. To answer these questions, I will integrate fieldwork, controlled experiments, and long-term monitoring.
